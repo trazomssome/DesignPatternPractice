@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DesignPatternPractice.생성패턴;
+
+FactoryMethod.Run();
